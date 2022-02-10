@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">908305013813-01qqitil8dtc3ubqg6l3io94pcjpttvb.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">908305013813</string>
+    <string name="google_api_key" translatable="false">AIzaSyCzD7V55cqu5umwle-diNe4nAfGlv5Cxng</string>
+    <string name="google_app_id" translatable="false">1:908305013813:android:601d1a23b4ffe493ec657c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCzD7V55cqu5umwle-diNe4nAfGlv5Cxng</string>
+    <string name="google_storage_bucket" translatable="false">we-chat-1aeb1.appspot.com</string>
+    <string name="project_id" translatable="false">we-chat-1aeb1</string>
+</resources>
